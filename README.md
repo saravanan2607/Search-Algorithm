@@ -135,8 +135,9 @@ else:
 ```
 ## Sample Input and Output
 
-![Output](/Screenshot%20from%202023-01-27%2000-37-14.png)
-![Output](/Screenshot%20from%202023-01-27%2000-37-44.png)
+
+![Exp 3b-CR-Linear Search and Binary Search_ Attempt review - Google Chrome 15-06-2023 09_44_28 (2)](https://github.com/saravanan2607/Search-Algorithm/assets/121395849/418c5277-7ee1-43b5-bd9d-2844cf50dea4)
+![2](https://github.com/saravanan2607/Search-Algorithm/assets/121395849/8867ed06-226d-4ca9-ac71-29e3e969a026)
 
 
 
